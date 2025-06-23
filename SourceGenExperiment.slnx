@@ -1,0 +1,6 @@
+﻿<Solution>
+  <Project Path="DemoUsingNugetPkg\DemoUsingNugetPkg.csproj" Type="Classic C#" />
+  <Project Path="DispatcherSourceGenerator.Tests\DispatcherSourceGenerator.Tests.csproj" Type="Classic C#" />
+  <Project Path="DispatcherSourceGeneratorDemo\DispatcherSourceGeneratorDemo.csproj" Type="Classic C#" />
+  <Project Path="DispatcherSourceGenerator\DispatcherSourceGenerator.csproj" Type="Classic C#" />
+</Solution>
